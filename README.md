@@ -120,5 +120,4 @@ The simulated network successfully provides secure communication between all uni
 ## Author
 Poornima Nethranjalee 
 
-## License
-This project is created for educational and academic purposes.
+
